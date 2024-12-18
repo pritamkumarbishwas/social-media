@@ -198,7 +198,7 @@ const AddPost = () => {
 
         <div className="mt-10 px-4">
           <button
-            className="w-full bg-black text-white py-4 hover:bg-gray-900 rounded-full transition duration-300"
+            className="w-full bg-black text-white py-4 mb-12 hover:bg-gray-900 rounded-full transition duration-300"
             title="Create Post"
             onClick={handlePostCreation}
           >
